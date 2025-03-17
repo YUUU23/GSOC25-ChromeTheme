@@ -1,6 +1,6 @@
 # GSOC25-ChromeTheme: Banana Milk 🍌🥛
 
-A warm, modernistic Google Chrome theme for the starter task of GSOC25 Chromium. This Chrome theme is inspired by the popular Korean banana milk brand Binggrae.
+A warm, modernistic Google Chrome theme for the starter task of GSOC25 Chromium: Add 3rd Party Theme Support for Tab Groups. This Chrome theme is inspired by the popular Korean banana milk brand Binggrae.
 
 ## Theme Preview
 
