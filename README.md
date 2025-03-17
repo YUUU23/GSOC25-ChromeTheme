@@ -25,10 +25,10 @@ A warm, modernistic Google Chrome theme for the starter task of GSOC25 Chromium:
 
 ### Running Theme with `.crx` File (Packed):
 
-1. Download the `src.crx` file from `https://github.com/YUUU23/GSOC25-ChromeTheme`
+1. Download the `BananaMilkTheme.crx` file from `https://github.com/YUUU23/GSOC25-ChromeTheme`
 2. In a Chrome browser, visit `chrome://extensions/`
 3. Toggle on 'Developer Mode'
-4. Drag and drop the `src.crx` file in, this will install the theme to your Chrome browser
+4. Drag and drop the `BananaMilkTheme.crx` file in, this will install the theme to your Chrome browser
 
 ## Editing This Theme:
 
